@@ -17,18 +17,18 @@ En la primera reunión / contacto, ambas partes pueden establecer si el mentor p
 
 #Un mentor puede ofrecer el tipo correcto de apoyo para usted si USTED está:
 •	Dispuesto a asumir la responsabilidad de sus metas.
-# Comprometerse a impulsar la relación hacia delante y quiere aprender y desarrollarse trabajando con alguien que pueda:
+## Comprometerse a impulsar la relación hacia delante y quiere aprender y desarrollarse trabajando con alguien que pueda:
 •	Suministrarle realimentación
 •	Ayudarle a encontrar sus propias soluciones, pero proporcionar algunos consejos y experiencia cuando se solicite.
 •	Ayudarle a desarrollar habilidades específicas
 
-# A través del proceso de tutoría, nos gustaría promover una cultura donde:
+## A través del proceso de tutoría, nos gustaría promover una cultura donde:
 
 •	Nuestras pionerasdev se sienten empoderadas y apoyadas para pedir ayuda a la comunidad. 
 •	Los devs con experiencia se sienten abiertos a apoyar el desarrollo de los demás a través de la tutoría
 •	Nuestro objetivo es brindarle el apoyo y los recursos que necesita para trabajar con un mentor (y aprovechar al máximo).
 
-# Beneficios de tener un mentor: 
+## Beneficios de tener un mentor: 
 •	Aumento de la confianza / autoestima
 •	Mayor sentido de valor dentro de su trabajo
 •	Ayuda y apoyo
@@ -57,4 +57,4 @@ Por favor complete los siguientes puntos para dejar documentado dicho conflicto:
 •	Nos pondremos en contacto con ella en su nombre.
 •	Espere máximo 2 semanas para que la respuesta tenga lugar y / o un plan de acción para trabajar.
 •	Confirmar con nosotros al correo inicial, que la situación ha sido resuelta.
-# Nota: Si su relación continúa sin éxito, por favor documente en el mismo correo la terminación de la misma. Desde @pionerasdev nos pondremos en contacto para discutir los próximos pasos.
+### Nota: Si su relación continúa sin éxito, por favor documente en el mismo correo la terminación de la misma. Desde @pionerasdev nos pondremos en contacto para discutir los próximos pasos.
